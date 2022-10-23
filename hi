@@ -1,0 +1,15 @@
+ <footer>
+        <h1>Founder </h1>
+        <img class="my_image" src="Image/img111.jpeg" width="110px
+        " alt="">
+        <h2 class="my_name" >  Anju Narnolia  </h2>
+       <div class="sm_handel">
+            <a href="https://youtube.com/channel/UChDYRjaV28vlWXvX-r70-Dw" target="_blank"
+                rel="noopener noreferrer" > <i class="fa fa-youtube"></i> Youtube </a>&nbsp;&nbsp;|&nbsp;&nbsp;
+            <a href="https://pin.it/58waEy8"target="_blank"
+                rel="noopener noreferrer" > <i class="fa fa-pinterest"></i> Pinterest</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+            <a href="https://linkedin.com/in/anju-narnolia-27a979249"target="_blank"
+                rel="noopener noreferrer" > <i class="fa fa-linkedin"></i> Linkedin</a>&nbsp;&nbsp;|&nbsp;&nbsp;    
+        </div>
+    </footer>
+    <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
